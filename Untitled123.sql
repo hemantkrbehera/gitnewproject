@@ -1,1 +1,1 @@
-select * From employees where salary>3000;
+select * From employees where first_name='Steven';
