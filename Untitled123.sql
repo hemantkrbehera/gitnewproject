@@ -1,0 +1,1 @@
+select * From employees where salary<10000;
