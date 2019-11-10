@@ -1,1 +1,1 @@
-select * From employees where salary<10000;
+select * From employees where salary>3000;
